@@ -66,19 +66,6 @@ react-viewtransition-demo/
 └── README.md
 ```
 
-## Upload to GitHub
-
-Create an empty GitHub repository, then from this project's folder run:
-
-```bash
-git init
-git add .
-git commit -m "Add React 19.3 ViewTransition demo"
-git branch -M main
-git remote add origin YOUR_REPOSITORY_URL
-git push -u origin main
-```
-
 ## Notes
 
 - The project intentionally uses React `19.3.0` because `<ViewTransition>` is stable in React 19.3.
